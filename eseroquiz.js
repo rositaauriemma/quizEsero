@@ -1,6 +1,6 @@
-const correctAnswerIcon = "./image/correct.png";
-const wrongAnswerIcon= "./image/wrong.jpg";
-const warningIcon = "./image/warning.jpeg";
+const correctAnswerIcon = "https://www.atrattipercepisco.it/wp-content/uploads/2019/04/correct.png";
+const wrongAnswerIcon= "https://www.atrattipercepisco.it/wp-content/uploads/2019/04/wrong.jpg";
+const warningIcon = "https://www.atrattipercepisco.it/wp-content/uploads/2019/04/warning.jpeg";
 
 let questionCounter = 0;
 let score = 0;
